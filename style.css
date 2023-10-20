@@ -1,0 +1,46 @@
+.main-page {
+    align-items: center;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
+    justify-content: center;
+    min-height:100vh;
+    background-color: rgb(25, 27, 76);
+}
+
+h1 {
+    color: #f7f3f3;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.grid {
+    display: grid;
+    grid-gap: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.grid p {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: #f7f3f3;
+}
+
+.grid p span {
+    font-size: 3rem;
+}
+
+.grid p code {
+    font-size: 1.1em;
+    background-color: #e5e1e1;
+    padding: 3px 0;
+}
+
+@media only screen and (min-width: 600px) {
+    .grid  {
+        grid-template-columns: repeat(5, 1fr);
+    }
+  }
