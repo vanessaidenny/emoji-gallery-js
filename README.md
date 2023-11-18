@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/vanessaidenny/mtm6302-emoji-denn0148?color=blueviolet&style=plastic)
-![GitHub contributors](https://img.shields.io/github/contributors/vanessaidenny/mtm6302-emoji-denn0148?color=brightgreen&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/vanessaidenny/emoji-gallery-js?color=blueviolet&style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/vanessaidenny/emoji-gallery-js?color=brightgreen&style=plastic)
 
 # 💻 Emoji
 
